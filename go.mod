@@ -1,4 +1,4 @@
-module github.com/snamenatel/PROTOS
+module github.com/snamenatel/protos
 
 go 1.21.6
 
